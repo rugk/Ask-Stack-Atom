@@ -21,6 +21,6 @@
     "atom-space-pen-views": "^2.0.3",
     "request": "2.x",
     "highlight.js": "8.x",
-    "event-kit": "~1.2.0"
+    "event-kit": "~1.5.0"
   }
 }
